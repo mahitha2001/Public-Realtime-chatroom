@@ -1,0 +1,13 @@
+.update-name{
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.btn{
+  color: cyan;
+  background-color: palevioletred;
+}
+
+.container{
+  max-width: 600px;
+}
