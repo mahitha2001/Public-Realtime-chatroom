@@ -1,13 +1,19 @@
-.update-name{
-  padding-left: 32px;
-  padding-right: 32px;
-}
-
-.btn{
-  color: cyan;
-  background-color: palevioletred;
-}
-
 .container{
   max-width: 600px;
+}
+.btn{
+  background: #e5a0c6;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn:focus{
+  outline: none !important;
+}
+.username{
+  font-weight: bold;
+}
+.time{
+  font-size: 0.7em;
+  color: #999;
 }
